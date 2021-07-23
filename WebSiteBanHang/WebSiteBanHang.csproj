@@ -25,7 +25,10 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+<<<<<<< HEAD
     <Use64BitIISExpress />
+=======
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -298,10 +301,13 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Content Include="App_Data\aspnet-OnlShop-20210717082450.mdf" />
     <Content Include="App_Data\aspnet-OnlShop-20210717082450_log.ldf">
       <DependentUpon>aspnet-OnlShop-20210717082450.mdf</DependentUpon>
     </Content>
+=======
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
     <Content Include="App_Data\QuanLyBanHang.mdf" />
     <Content Include="App_Data\QuanLyBanHang_log.ldf">
       <DependentUpon>QuanLyBanHang.mdf</DependentUpon>
@@ -312,9 +318,12 @@
     <Content Include="Content\css\flexslider.css" />
     <Content Include="Content\css\memenu.css" />
     <Content Include="Content\css\style.css" />
+<<<<<<< HEAD
     <Content Include="Content\css\style.min.css">
       <DependentUpon>style.css</DependentUpon>
     </Content>
+=======
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
     <Content Include="Content\css\style_form_dangnhap.css" />
     <Content Include="Content\HinhAnhSP\ACER-2215i.png" />
     <Content Include="Content\HinhAnhSP\AcerA1-810-2CW-316T.png" />
@@ -680,7 +689,10 @@
     <Content Include="Content\Layouts\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.eot" />
     <Content Include="Content\Layouts\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.ttf" />
     <Content Include="Content\Layouts\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.woff" />
+<<<<<<< HEAD
     <None Include="bundleconfig.json" />
+=======
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />

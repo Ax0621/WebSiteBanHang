@@ -11,7 +11,11 @@
             @using (Html.BeginForm("LayTuKhoaTimKiem", "TimKiem"))
             {
                 <input type="text" name="sTuKhoa" placeholder="Nhập tên sản phẩm ..." />
+<<<<<<< HEAD
                 <input type="submit" style="left:199px;" value="Tìm kiếm">
+=======
+                <input type="submit" value="Tìm kiếm">
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
             }
         </div>
         <div class="header-left">
@@ -56,7 +60,11 @@
         <div style="clear:both;text-align:right;margin-bottom:0;">
             <span id="close-form" class="btn btn-danger">X</span>
         </div>
+<<<<<<< HEAD
         <h2 style="text-align:center">Đăng nhập</h2>
+=======
+        <h2>Đăng nhập</h2>
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
         <div class="form-info">
             @using (Ajax.BeginForm("DangNhap", "Home",new AjaxOptions { InsertionMode=InsertionMode.Replace,UpdateTargetId="ThongBao"}))
             {
@@ -66,7 +74,11 @@
                     <h3 style="font-weight:bold;color:red;text-align:left" id="ThongBao"></h3>
                 <ul class="login-buttons">
                     <li><input value="Đăng nhập" type="submit" id="btnDangNhap1"></li>
+<<<<<<< HEAD
                     <li><a href="@Url.Action("Dangky","Home")" class="hvr-sweep-to-left">Đăng ký</a></li>
+=======
+                    <li><a href="#" class="hvr-sweep-to-left">Đăng ký</a></li>
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 
                 </ul>
             }

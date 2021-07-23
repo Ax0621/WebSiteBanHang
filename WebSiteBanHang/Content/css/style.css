@@ -89,7 +89,11 @@ a.item_add {
 	  float: left;
   width: 25%;
   background-color: #fff;
+<<<<<<< HEAD
 	margin-top: 11px;
+=======
+    margin-top: 11px;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 .search input[type="text"] {
 	outline: none;
@@ -117,7 +121,11 @@ a.item_add {
 .search input[type="submit"]:hover {
   background: #EF5F21;  
   color: #fff;
+<<<<<<< HEAD
 	transition: 0.5s all;
+=======
+    transition: 0.5s all;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
   -webkit-transition: 0.5s all;
   -o-transition: 0.5s all;
   -moz-transition: 0.5s all;
@@ -127,6 +135,7 @@ a.item_add {
 	float: right;
 	  margin-top: 4px;
 }
+<<<<<<< HEAD
 	.header-left ul {
 		float: left;
 		margin-right: 15px;
@@ -134,6 +143,13 @@ a.item_add {
 	}
 .header-left ul li{
 	display: inline-block;
+=======
+.header-left ul{
+	float: left;
+}
+.header-left ul li{
+	display: inline-block;	
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 .header-left ul li a{
 	text-decoration: none;
@@ -305,7 +321,11 @@ height: 35px;
 	font-size: 2.2em;
   font-family: 'Lato', sans-serif;
   font-weight: 600;
+<<<<<<< HEAD
 	margin-bottom: 0.5em;
+=======
+    margin-bottom: 0.5em;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 .content-top {
 	text-align:center;
@@ -339,7 +359,11 @@ height: 35px;
 	position: absolute;
   top: 48%;
   width:100%;
+<<<<<<< HEAD
 	text-align:center;
+=======
+  	text-align:center;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 .twit h4{
   color: #fff;
@@ -384,7 +408,11 @@ height: 35px;
   font-weight: 600;
   margin-bottom: 1.5em;
   text-align: center;
+<<<<<<< HEAD
 	text-transform: uppercase;
+=======
+    text-transform: uppercase;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 .b-link-stripe{
 	position:relative;
@@ -516,8 +544,13 @@ height: 35px;
 }
 .amet-sed h4{
 	font-size: 1.5em;
+<<<<<<< HEAD
 	color: #fff;
 	 font-family: 'Lato', sans-serif;
+=======
+  	color: #fff;
+     font-family: 'Lato', sans-serif;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 	margin: 0 0 1em;
 	  text-transform: uppercase;
   font-weight: 700;
@@ -615,7 +648,11 @@ ul.social li i:hover{
   -moz-transform: rotate(360deg);
   -o-transform: rotate(360deg);
   -ms-transform: rotate(360deg);
+<<<<<<< HEAD
 	transition: 0.5s all ease;
+=======
+    transition: 0.5s all ease;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
   -webkit-transition: 0.5s all ease;
   -moz-transition: 0.5s all ease;
   -o-transition: 0.5s all ease;
@@ -796,14 +833,22 @@ p.m_11 {
   color: #000;
   text-align: center;
   font-weight: 600;
+<<<<<<< HEAD
 	margin: 0 0 1em;
+=======
+    margin: 0 0 1em;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 /*--//blog--*/
 /*--product--*/
 .tags ul li {
 	display: inline-block;
 	float:left;
+<<<<<<< HEAD
 		width: 22.8%;
+=======
+	    width: 22.8%;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
   margin: 0.5em 2% 0 0;
   text-align: center;
 }
@@ -830,7 +875,11 @@ h3.cate {
 	  border-bottom: 1px solid #000;
   width: 69%;
 	font-size: 2em;
+<<<<<<< HEAD
 	font-family: 'Lato', sans-serif;
+=======
+    font-family: 'Lato', sans-serif;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 .of-left{
 	 border-bottom: 1px solid #000;
@@ -908,7 +957,11 @@ h3.best {
   border-bottom: 1px solid #000;
   width: 81%;
   font-size: 2em;
+<<<<<<< HEAD
 	font-family: 'Lato', sans-serif;
+=======
+    font-family: 'Lato', sans-serif;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 .pagination > .active > a, .pagination > .active > a:hover {
   background: #EF5F21;
@@ -951,7 +1004,11 @@ h3.tag {
 	  border-bottom: 1px solid #000;
   width: 32%;
 	font-size: 2em;
+<<<<<<< HEAD
 	font-family: 'Lato', sans-serif;
+=======
+    font-family: 'Lato', sans-serif;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 .of-left-in{
 	 border-bottom: 1px solid #000;
@@ -972,8 +1029,13 @@ h3.tag {
   line-height: 1.3em;
  }
  h6.best2 a{
+<<<<<<< HEAD
 	color:#000;
 	text-decoration: none;
+=======
+ 	color:#000;
+ 	text-decoration: none;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
  }
  h6.best2 a:hover{
 	color:#EF5F21;
@@ -1014,7 +1076,11 @@ font-weight: 100;
 }
 .per1 {
   position: relative;
+<<<<<<< HEAD
 	margin: 2em 0;
+=======
+    margin: 2em 0;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 /*---*/
 
@@ -1093,7 +1159,11 @@ p.tun{
 	display: inline-block;
 }
 .single-para h4 {
+<<<<<<< HEAD
 	color: #000;
+=======
+    color: #000;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
   font-size: 3em;
   font-family: 'Lato', serif;
 }
@@ -1102,7 +1172,11 @@ p.tun{
   color: #2c3e50;
   font-family: 'Lato', serif;
   line-height: 1.8em;
+<<<<<<< HEAD
 	margin: 1em 0;
+=======
+    margin: 1em 0;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 .single-para h5 {
   color: #EF5F21;
@@ -1200,7 +1274,11 @@ h3.real{
   width: 100%;
 }
 .cd-tabs-navigation li {
+<<<<<<< HEAD
 	display: inline-block;
+=======
+    display: inline-block;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
   list-style:none;
 }
 .cd-tabs-navigation a {
@@ -1262,7 +1340,11 @@ padding: 1em 0;
 	color:#000;
 	font-size:1em;
 	  font-family: 'Lato', serif;
+<<<<<<< HEAD
 		float: left;
+=======
+	    float: left;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 		
 }
 .color p{
@@ -1510,7 +1592,11 @@ a.create {
   display: block;
  }
 .left-account img{
+<<<<<<< HEAD
 	width:100%;
+=======
+ 	width:100%;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
  }
 /*--single--*/
 .single-bottom h3 {
@@ -1744,7 +1830,11 @@ ul.total_price li.last_price span{
 .check h1 {
   font-size: 1.5em;
   margin-bottom:2em;
+<<<<<<< HEAD
 	font-family: 'Lato', sans-serif;
+=======
+    font-family: 'Lato', sans-serif;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 a.item_add1 {
   border-top-left-radius: 0;
@@ -1941,7 +2031,11 @@ width:33.3%;
 .single-top-in {
   width: 100%;
   margin-left: 0%;
+<<<<<<< HEAD
 	float: left;
+=======
+    float: left;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 .single-top {
   width: 100%;
@@ -2042,7 +2136,11 @@ ul.callbacks_tabs.callbacks1_tabs {
 }
 .grid-top {
   width: 100%;
+<<<<<<< HEAD
 	margin-bottom: 1em;
+=======
+    margin-bottom: 1em;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 .grid-top p {
   font-size: 1.2em;
@@ -2165,8 +2263,13 @@ a.item_add p.number {
 .banner-text h3 {
   font-size: 0.9em;
   line-height:1.5em;
+<<<<<<< HEAD
 	letter-spacing: 3px;
 	margin-bottom: 0.2em;
+=======
+    letter-spacing: 3px;
+    margin-bottom: 0.2em;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 .banner-text p {
  font-size: 0.8em;
@@ -2180,7 +2283,11 @@ a.item_add p.number {
 }
 .content-top h1 {
   font-size: 1.3em;
+<<<<<<< HEAD
 	margin-bottom: 0.8em;
+=======
+    margin-bottom: 0.8em;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 .grid-mid {
   padding: 5px;

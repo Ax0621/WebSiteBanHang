@@ -47,8 +47,12 @@ body a,form li,input[type="submit"],input[type="text"],.sixth-login input[type="
 	-o-transition: 0.1s all;
 }
 .form-info {
+<<<<<<< HEAD
 	padding-top: 1.5em;
 
+=======
+  	padding-top: 1.5em;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 h1 {
 	  font-family: 'Marvel', sans-serif;
@@ -99,12 +103,17 @@ input.password {
 	  padding: 1.2em 3em 1.2em 1em;
 	  background: #3a3a46 url(../images/key.png)no-repeat 390px 16px;
 	  color: #B4B4B4;
+<<<<<<< HEAD
 		  border-radius: 3px;
+=======
+	  	  border-radius: 3px;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 		-webkit-border-radius: 3px;
 		-moz-border-radius: 3px;
 		-o-border-radius: 3px;
 }
 ul.login-buttons {
+<<<<<<< HEAD
 	padding-top: 1.5em;
 	margin-left:25%
 }
@@ -112,6 +121,14 @@ ul.login-buttons li {
 	  display: inline-block;
 	  float: left;
 	  width: 100%;
+=======
+ 	padding-top: 1.5em;
+}
+ul.login-buttons li {
+	  display: inline-block;
+	  /*float: left;*/
+	  width: 50%;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 .form-info p {
 	  text-align: right;
@@ -130,7 +147,11 @@ a.hvr-sweep-to-left {
 	  font-size: 1.1em;
 	  font-weight: 600;
 	  margin-left: 27px;
+<<<<<<< HEAD
 		  border-radius: 3px;
+=======
+	  	  border-radius: 3px;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 		-webkit-border-radius: 3px;
 		-moz-border-radius: 3px;
 		-o-border-radius: 3px;
@@ -138,6 +159,7 @@ a.hvr-sweep-to-left {
 /*--hover-buttons--*/
 /* Sweep To Right */
 input[type="submit"] {
+<<<<<<< HEAD
 	background: #7979e2;
 	color: #fff;
 	padding: 15px 60px;
@@ -160,6 +182,30 @@ input[type="submit"] {
 		-moz-transition: 0.6s all;
 		-o-transition: 0.6s all;
 	}
+=======
+	  background: #ff5757;
+	  color: #fff;
+  padding: 15px 60px;
+	  font-size: 1.1em;
+	  font-weight: 600;
+	  margin-right: 27px;
+	  	  border-radius: 3px;
+		-webkit-border-radius: 3px;
+		-moz-border-radius: 3px;
+		-o-border-radius: 3px;
+  outline: none;
+  border: none;
+  cursor: pointer; 
+}
+input[type="submit"]:hover {
+		  background: #7979e2;
+	  color: #fff;
+	  	transition: 0.6s all;
+	-webkit-transition: 0.6s all;
+	-moz-transition: 0.6s all;
+	-o-transition: 0.6s all;
+}
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 /* Sweep To Left */
 .hvr-sweep-to-left {
 	  display: inline-block;
@@ -195,21 +241,34 @@ input[type="submit"] {
 	  transition-duration: 0.3s;
 	  -webkit-transition-timing-function: ease-out;
 	  transition-timing-function: ease-out;
+<<<<<<< HEAD
 		  border-radius: 3px;
+=======
+	  	  border-radius: 3px;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	-o-border-radius: 3px;
 }
 .hvr-sweep-to-left:hover, .hvr-sweep-to-left:focus, .hvr-sweep-to-left:active {
+<<<<<<< HEAD
 	 color: white;
 }
 .hvr-sweep-to-left:hover:before, .hvr-sweep-to-left:focus:before, .hvr-sweep-to-left:active:before {
   -webkit-transform: scaleX(1);
 	transform: scaleX(1);
+=======
+ 	 color: white;
+}
+.hvr-sweep-to-left:hover:before, .hvr-sweep-to-left:focus:before, .hvr-sweep-to-left:active:before {
+  -webkit-transform: scaleX(1);
+  	transform: scaleX(1);
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 /* Sweep To Left */
 /*--hover-buttons--*/
 .copyrights {
+<<<<<<< HEAD
 	 padding: 3em 0;
 }
 .copyrights p {
@@ -220,22 +279,44 @@ input[type="submit"] {
 }
 .copyrights p a:hover {
 	 color: #FF5757;
+=======
+ 	 padding: 3em 0;
+}
+.copyrights p {
+ 	 color: #fff;
+}
+.copyrights p a {
+ 	 color: #fff;
+}
+.copyrights p a:hover {
+ 	 color: #FF5757;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 }
 /*--start-responsive-design--*/
 @media (max-width:1600px){
 	.login-form {
+<<<<<<< HEAD
 		width: 33%;
 	height: 80%;
+=======
+	    width: 33%;
+    height: 80%;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 
 	 }
  }
 @media (max-width:1440px){
 	.login-form {
+<<<<<<< HEAD
 		width: 33%;
+=======
+	    width: 33%;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 	}
 	input.email {
 	  width: 85%;
 	  background-color: #fff;
+<<<<<<< HEAD
 	  margin-left: 8%;
 	}
 	input.password {
@@ -246,12 +327,26 @@ input[type="submit"] {
 	a.hvr-sweep-to-left {
 	  margin-left: 6px;
 		padding: 14px 46px;
+=======
+	}
+	input.password {
+	  width: 85%;
+	  background-color: #fff;
+	}
+	a.hvr-sweep-to-left {
+	  margin-left: 6px;
+	    padding: 14px 46px;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 	}
 }
 @media (max-width:1366px){
 	a.hvr-sweep-to-left {
+<<<<<<< HEAD
 	  margin-left: 10%;
 	  margin-top: 10px;
+=======
+	  margin-left: 15px;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 	  padding: 13px 37px;
 	}
 	input.email {
@@ -352,7 +447,11 @@ input[type="submit"] {
 	}
 	h1 {
 	  padding-top: 1.5em;
+<<<<<<< HEAD
 		font-size: 2.2em;
+=======
+	    font-size: 2.2em;
+>>>>>>> 418dd84632cb760af176123f19807ed962732355
 	  font-weight: 700;
 	}
 	.login-form {
